@@ -5,7 +5,7 @@
                     <v-col lg="4" cols="12">
                         <h3>Artilheiros</h3>
                         <GraphicArtilheiro/>
-                    </v-col>
+                    </v-col> 
                     <v-col lg="4" cols="12">
                         <h3>Líderes de assistências</h3>
                         <GraphicAssistencias/>

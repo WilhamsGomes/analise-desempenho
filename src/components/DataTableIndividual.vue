@@ -337,7 +337,7 @@
                                 this.insights[4].dados = (this.insights[4].dados + data[x].faltasCometidas)
                                 this.insights[5].dados = (this.insights[5].dados + data[x].cartoesAmarelo)
                                 this.insights[6].dados = (this.insights[6].dados + data[x].cartoesVermelho)
-                                this.insights[7].dados = (this.insights[6].dados + data[x].minJogados)
+                                this.insights[7].dados = (this.insights[7].dados + data[x].minJogados)
                             } 
 
                         }
